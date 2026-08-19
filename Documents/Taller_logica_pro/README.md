@@ -59,16 +59,16 @@ Enlace a las diapositivas: `[https://upbeduco-my.sharepoint.com/:p:/r/personal/s
 
 | # | Fecha | Commit (resumen) | Descripción |
 |---|-------|-------------------|-------------|
-| 1 | `[fecha]` | `[hash o mensaje]` | Estructura inicial del repositorio |
-| 2 | `[fecha]` | `[hash o mensaje]` | Declaración de las 20 variables en Variables.java |
-| 3 | `[fecha]` | `[hash o mensaje]` | Inicialización de variables |
-| 4 | `[fecha]` | `[hash o mensaje]` | Reasignación de variables (5 desde otras variables) |
-| 5 | `[fecha]` | `[hash o mensaje]` | Menú de Ecuaciones.java (opciones 1-3) |
-| 6 | `[fecha]` | `[hash o mensaje]` | Implementación ecuación 1 |
-| 7 | `[fecha]` | `[hash o mensaje]` | Implementación ecuación 2 |
-| 8 | `[fecha]` | `[hash o mensaje]` | Corrección de nombre/correo en commits anteriores |
-| 9 | `[fecha]` | `[hash o mensaje]` | Diapositivas de la presentación |
-| 10 | `[fecha]` | `[hash o mensaje]` | Ajustes finales / README |
+| 1 | `[19/08/2026]` | `[commit inicial]` | Estructura inicial del repositorio |
+| 2 | `[19/08/2026]` | `[creacion del readme.md]` | Se crea el readme.md en main |
+| 3 | `[19/08/2026]` | `[Se añaden archivos]` | Se sube el contenido de los archivos |
+| 4 | `[19/08/2026]` | `[Correción link]` | Se corrige link de las diapositivas |
+| 5 | `[19/08/2026]` | `[hash o mensaje]` | Reasignación de variables (5 desde otras variables) |
+| 6 | `[19/08/2026]` | `[hash o mensaje]` | Implementación ecuación 1 |
+| 7 | `[19/08/2026]` | `[hash o mensaje]` | Implementación ecuación 2 |
+| 8 | `[19/08/2026]` | `[hash o mensaje]` | Corrección de nombre/correo en commits anteriores |
+| 9 | `[19/08/2026]` | `[hash o mensaje]` | Diapositivas de la presentación |
+| 10 | `[19/08/2026]` | `[hash o mensaje]` | Ajustes finales / README |
 
 
 
