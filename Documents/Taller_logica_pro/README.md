@@ -65,10 +65,10 @@ Enlace a las diapositivas: `[https://upbeduco-my.sharepoint.com/:p:/r/personal/s
 | 4 | `[19/08/2026]` | `[Correción link]` | Se corrige link de las diapositivas |
 | 5 | `[19/08/2026]` | `[readme.md]` | Actualización del readme.md |
 | 6 | `[19/08/2026]` | `[Reasignación variables]` | Reasignación de variables (5 desde otras variables) |
-| 7 | `[19/08/2026]` | `[hash o mensaje]` | Implementación ecuación 2 |
-| 8 | `[19/08/2026]` | `[hash o mensaje]` | Corrección de nombre/correo en commits anteriores |
-| 9 | `[19/08/2026]` | `[hash o mensaje]` | Diapositivas de la presentación |
-| 10 | `[19/08/2026]` | `[hash o mensaje]` | Ajustes finales / README |
+| 7 | `[19/08/2026]` | `[Se agrega un ciclo]` | do-while que no acaba hasta usar la opción 3 |
+| 8 | `[19/08/2026]` | `[División entre 0]` | Agrega la opción de que el denominador no pueda dividir entre 0 |
+| 9 | `[19/08/2026]` | `[.gitignore]` | Se recupera el .gitignore que fue removido por accidente |
+| 10 | `[19/08/2026]` | `[Revisión Final]` | Ajustes finales / README |
 
 
 
