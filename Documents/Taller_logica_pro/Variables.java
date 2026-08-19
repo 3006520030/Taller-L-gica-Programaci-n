@@ -42,7 +42,14 @@ public class Variables {
                 saldoCuenta, inicialApellido, tareaCompleta, universidad,
                 simboloOperacion, porcentajeAsistencia);
 
-        
+        // ===================== 3. REASIGNACIÓN =====================
+
+        // --- 3.1: al menos 5 variables reasignadas con valores tomados de OTRAS variables ---
+        edad = totalHermanos;                 // edad ahora toma el valor de totalHermanos
+        anioNacimiento = diaEntrega;          // anioNacimiento toma el valor de diaEntrega
+        promedioNotas = porcentajeAsistencia; // promedioNotas toma el valor de porcentajeAsistencia
+        inicialNombre = inicialApellido;      // inicialNombre toma el valor de inicialApellido
+        nombre = universidad;                 // nombre toma el valor de universidad
 
         // --- 3.2: el resto se reasigna con datos nuevos "quemados" (hardcoded) ---
         numeroEstudiantes = 40;

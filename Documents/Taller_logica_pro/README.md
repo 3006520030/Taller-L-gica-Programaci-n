@@ -63,8 +63,8 @@ Enlace a las diapositivas: `[https://upbeduco-my.sharepoint.com/:p:/r/personal/s
 | 2 | `[19/08/2026]` | `[creacion del readme.md]` | Se crea el readme.md en main |
 | 3 | `[19/08/2026]` | `[Se añaden archivos]` | Se sube el contenido de los archivos |
 | 4 | `[19/08/2026]` | `[Correción link]` | Se corrige link de las diapositivas |
-| 5 | `[19/08/2026]` | `[hash o mensaje]` | Reasignación de variables (5 desde otras variables) |
-| 6 | `[19/08/2026]` | `[hash o mensaje]` | Implementación ecuación 1 |
+| 5 | `[19/08/2026]` | `[readme.md]` | Actualización del readme.md |
+| 6 | `[19/08/2026]` | `[Reasignación variables]` | Reasignación de variables (5 desde otras variables) |
 | 7 | `[19/08/2026]` | `[hash o mensaje]` | Implementación ecuación 2 |
 | 8 | `[19/08/2026]` | `[hash o mensaje]` | Corrección de nombre/correo en commits anteriores |
 | 9 | `[19/08/2026]` | `[hash o mensaje]` | Diapositivas de la presentación |
