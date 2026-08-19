@@ -1,1 +1,1 @@
-# Taller-L-gica-Programaci-n
+# Taller-Logica-Programacion
