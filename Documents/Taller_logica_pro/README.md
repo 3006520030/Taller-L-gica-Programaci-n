@@ -46,7 +46,7 @@ elegir "Salir". Pide `x` y `z` por teclado y muestra el resultado de `y`.
 
 ## Presentación
 
-Enlace a las diapositivas: `[https://github.com/3006520030/Taller-L-gica-Programaci-n.git]`
+Enlace a las diapositivas: `[https://upbeduco-my.sharepoint.com/:p:/r/personal/santiago_mejiaga_upb_edu_co/_layouts/15/Doc.aspx?sourcedoc=%7BDC9F2590-B5F9-4ACD-A84F-467B6EA91295%7D&file=Taller_Variables_Condicionales.pptx&action=edit&mobileredirect=true&DefaultItemOpen=1&wdOrigin=APPHOME-WEB.DIRECT%2CAPPHOME-WEB.JUMPBACKIN&wdPreviousSession=2227651d-279e-4c0b-a599-029ef6351933&wdPreviousSessionSrc=AppHomeWeb&ct=1787117509538]`
 
 ## Control de versiones (Git)
 
