@@ -15,14 +15,17 @@ import java.util.Scanner;
  */
 public class Ecuaciones {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+    Scanner sc = new Scanner(System.in);
+    int opcion;
 
-        System.out.println("=== MENU ===");
+    // El menu se repite hasta que el usuario elija la opcion 3 (Salir)
+    do {
+        System.out.println("\n=== MENU ===");
         System.out.println("1. Solucion ecuacion 1");
         System.out.println("2. Solucion ecuacion 2");
         System.out.println("3. Salir");
         System.out.print("Seleccione una opcion: ");
-        int opcion = sc.nextInt();
+        opcion = sc.nextInt();
 
         if (opcion == 1) {
             System.out.print("Ingrese el valor de x: ");
@@ -45,11 +48,13 @@ public class Ecuaciones {
         } else if (opcion == 3) {
             System.out.println("Saliendo del programa...");
         } else {
-            System.out.println("Opcion invalida.");
+            System.out.println("Opcion invalida. Intente de nuevo.");
         }
 
-        sc.close();
-    }
+    } while (opcion != 3);
+
+    sc.close();
+}
 
     /**
      * Ecuacion 1:
