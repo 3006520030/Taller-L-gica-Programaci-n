@@ -1,6 +1,6 @@
 # Taller: Variables y Condicionales — Java
 
-Taller individual del curso de programación (unidad "Variables y Condicionales").
+Taller  individual del curso de programación (unidad "Variables y Condicionales").
 
 
 ## Estructura del repositorio
