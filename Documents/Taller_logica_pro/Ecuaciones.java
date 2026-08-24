@@ -10,7 +10,7 @@ import java.util.Scanner;
  *   3. Salir
  *
  * Se pide al usuario el tipo de ecuacion, luego los valores de x y z,
- * se evalua la expresion (dividida en partes pequenas, "divide y venceras")
+ * se evalua la expresion (dividida en partes pequenas, "divide  y  venceras")
  * y se imprime el resultado.
  *
  * Todas las divisiones pasan por dividir(), que valida que el denominador
