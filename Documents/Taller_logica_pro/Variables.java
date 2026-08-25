@@ -1,6 +1,6 @@
 /**
  * Variables.java
- * Taller: Variables y Condicionales 
+ * Taller: Variables y Condicionales
  *
  * Punto 4: 20 declaraciones de variables de diferente tipo. 
  * Punto 5: inicializadas con datos compatibles con cada tipo.
