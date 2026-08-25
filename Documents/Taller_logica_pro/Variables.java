@@ -2,7 +2,7 @@
  * Variables.java
  * Taller: Variables y Condicionales 
  *
- * Punto 4: 20 declaraciones de variables de diferente tipo.
+ * Punto 4: 20 declaraciones de variables de diferente tipo. 
  * Punto 5: inicializadas con datos compatibles con cada tipo.
  * Punto 6: al menos 5 se reasignan con valores tomados de OTRAS variables,
  *          y el resto se reasigna con datos nuevos "quemados" (hardcoded).
