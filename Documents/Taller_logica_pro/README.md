@@ -3,7 +3,7 @@
 Taller  individual del curso de programación (unidad "Variables y Condicionales").
 
 
-## Estructura del repositorio
+## Estructura del repositorio  
 
 ```
 .
